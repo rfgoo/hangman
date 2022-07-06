@@ -1,4 +1,4 @@
 # hangman
 `pip install pygame-textinput`
 
-`pip install pygames`
+`pip install pygame`
